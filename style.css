@@ -1,0 +1,47 @@
+p{
+
+    color: #e5a9e5 ; 
+  
+  }
+  
+  p.vermelho{
+  
+    color:red;
+  
+  } 
+  
+  .azul{
+  
+    color:rgb(0,0,255);
+  
+  }
+  
+  .bgciano{
+  
+    background-color: #e3a7e3	;
+  
+  }
+  
+  h1{
+  
+    color: #e19ee1	 ; 
+  
+  }
+  
+  h1.vermelho{
+  
+    color:red;
+  
+  } 
+  
+  .azul{
+  
+    color:rgb(0,0,255);
+  
+  }
+  
+  .bgciano{
+  
+    background-color: #e6b4e6		;
+  
+  }
